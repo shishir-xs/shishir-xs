@@ -4,18 +4,20 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=230&section=header&text=Shishir%20Bhuiyan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20WordPress%20Product%20R%26D&descAlignY=58&descSize=18" width="100%" alt="Shishir Bhuiyan"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=230&section=header&text=Shishir%20Bhuiyan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%40%20RoxNor%20%E2%80%A2%204x%20IEEE%20Author%20%E2%80%A2%20CSE%2C%20PSTU&descAlignY=58&descSize=18" width="100%" alt="Shishir Bhuiyan"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Shipping+GutenKit%2C+ElementsKit+%26+PopupKit+at+Wpmet;Building+Rox+Booking+Engine+%26+RoxStripe;Researching+block-editor+parity+%26+deprecations;Secure%2C+accessible%2C+translatable+by+default" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+RoxNor+%C2%B7+4x+IEEE+author;Shipping+GutenKit%2C+ElementsKit+%26+PopupKit+at+Wpmet;Building+Rox+Booking+Engine+%26+RoxStripe;Researching+block-editor+parity+%26+deprecations;Secure%2C+accessible%2C+translatable+by+default" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Software%20Engineer-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="role"/>
-  <a href="https://wpmet.com"><img src="https://img.shields.io/badge/Wpmet%20%C2%B7%20XpeedStudio-EC4899?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1e1b4b" alt="Wpmet"/></a>
+  <a href="https://roxnor.com"><img src="https://img.shields.io/badge/RoxNor%20%C2%B7%20Wpmet-EC4899?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1e1b4b" alt="RoxNor"/></a>
+  <img src="https://img.shields.io/badge/IEEE-4%20Publications-00629B?style=for-the-badge&logo=ieee&logoColor=white&labelColor=1e1b4b" alt="IEEE"/>
+  <a href="https://github.com/engrshishir"><img src="https://img.shields.io/badge/Personal-@engrshishir-181717?style=for-the-badge&logo=github&logoColor=white" alt="personal GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=shishir-xs&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="views"/>
 </p>
 
@@ -31,8 +33,10 @@
 
 <p align="center">
   <a href="#-about"><img src="https://img.shields.io/badge/About-1e1b4b?style=for-the-badge" alt="About"/></a>
+  <a href="#-journey"><img src="https://img.shields.io/badge/Journey-1e1b4b?style=for-the-badge" alt="Journey"/></a>
   <a href="#-products-i-build"><img src="https://img.shields.io/badge/Products-1e1b4b?style=for-the-badge" alt="Products"/></a>
   <a href="#-contribution-analytics"><img src="https://img.shields.io/badge/Analytics-1e1b4b?style=for-the-badge" alt="Analytics"/></a>
+  <a href="#-open-source--personal-projects"><img src="https://img.shields.io/badge/Open%20Source-1e1b4b?style=for-the-badge" alt="Open Source"/></a>
   <a href="#-changelog-by-project"><img src="https://img.shields.io/badge/Changelog-1e1b4b?style=for-the-badge" alt="Changelog"/></a>
   <a href="#%EF%B8%8F-tech-stack"><img src="https://img.shields.io/badge/Stack-1e1b4b?style=for-the-badge" alt="Stack"/></a>
   <a href="#-connect"><img src="https://img.shields.io/badge/Connect-1e1b4b?style=for-the-badge" alt="Connect"/></a>
@@ -44,7 +48,9 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding"/>
 
-I build **WordPress products used by millions of sites**, from Gutenberg blocks and Elementor widgets to booking and payment systems.
+I am a **Software Engineer at [RoxNor](https://roxnor.com)**, working with the Wpmet team on **WordPress products used by millions of sites**: Gutenberg blocks, Elementor widgets, and booking and payment systems. Before that I built Laravel platforms as a full-stack developer, and I have **4 IEEE publications** from my time at PSTU.
+
+> 🧑‍💻 This is my work account. My personal projects and open source live at **[@engrshishir](https://github.com/engrshishir)**.
 
 My work sits between **engineering and research**: I dig into why the editor and the live site act differently, how block deprecations break saved content, and how to make plugins secure, accessible and translatable without slowing them down.
 
@@ -57,7 +63,7 @@ My work sits between **engineering and research**: I dig into why the editor and
 <br clear="right"/>
 
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal: whoami shishir-xs, Software Engineer at Wpmet; 492 commits in 2026; products gutenkit, elementskit, popupkit, booking-engine, roxstripe" width="100%"/>
+  <img src="./assets/terminal.svg" alt="Terminal: whoami shishir-xs, Software Engineer at RoxNor, 4x IEEE author; 492 commits in 2026; products gutenkit, elementskit, popupkit, booking-engine, roxstripe" width="100%"/>
 </p>
 
 ### ⚡ Currently
@@ -90,6 +96,71 @@ My work sits between **engineering and research**: I dig into why the editor and
     </td>
   </tr>
 </table>
+
+---
+
+## 🧗 Journey
+
+```mermaid
+timeline
+    title From campus to products used by millions
+    2019 : Secretary of Science & Technology, Tarunyer Shopno Foundation
+    2020 : First PHP, Laravel and React projects on GitHub
+    2022 : Ankur International Undergraduate Scholarship : Rover Mate, PSTU Rover Scout
+    2024 : Full-Stack Developer at Squartup : Lara Dashboard and AmarSomiti
+    2025 : Project & Research Assistant, PSTU : Online Voting System : B.Sc. in CSE, 12th of 85
+    2026 : Software Engineer at RoxNor : GutenKit, ElementsKit, PopupKit, Rox Appointment Booking
+```
+
+### 💼 Experience
+
+<table>
+  <tr>
+    <td width="26%" valign="top"><b>Software Engineer</b><br/><a href="https://roxnor.com">RoxNor</a><br/><sub>Jan 2026 – Present</sub></td>
+    <td valign="top">Working with the Wpmet team on ElementsKit, GutenKit, PopupKit and Rox Appointment Booking: feature development, payment and email system setup, API design and quality assurance.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Full-Stack Developer</b><br/><a href="https://squartup.com">Squartup</a><br/><sub>May 2024 – Dec 2025</sub></td>
+    <td valign="top">Owned the core platform backend with SOLID, modular architecture. Built JWT authentication, organization-level data isolation with role-based permissions and database partitioning, and a premium CRM module with payments and campaign automation. Added RabbitMQ, Redis caching, Elasticsearch search, and CI/CD with GitHub Actions and Docker.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Project & Research Assistant</b><br/><a href="https://pstu.ac.bd">CCE Department, PSTU</a><br/><sub>Jan 2025 – Dec 2025</sub></td>
+    <td valign="top">Built and deployed web applications at the university ICT Cell, including the <a href="https://onlinevoting.pstu.ac.bd/">Online Voting System</a> used by the university community. Supported faculty and students with software, data processing and report automation.</td>
+  </tr>
+</table>
+
+### 🎓 Education & Research
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 B.Sc. in Computer Science and Engineering</h4>
+      <a href="https://pstu.ac.bd">Patuakhali Science and Technology University</a><br/>
+      <img src="https://img.shields.io/badge/CGPA-3.463%20%2F%204.00-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Merit-12th%20of%2085-EC4899?style=flat-square"/><br/><br/>
+      <sub>Coursework: Data Structures & Algorithms, Machine Learning, Cryptography & Security, Operating Systems, Computer Architecture, Databases, Computer Networks</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📄 4× IEEE Publications</h4>
+      <img src="https://img.shields.io/badge/IEEE-4%20papers-00629B?style=flat-square&logo=ieee&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/><br/><br/>
+      <sub>Research work during my degree, using PyTorch, scikit-learn, Pandas and NumPy.</sub>
+      <h4>🏅 Ankur International Undergraduate Scholarship</h4>
+      <sub>Feb 2022 – Feb 2024 · awarded for academic project excellence and research potential.</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🤝 Volunteering</b></summary>
+
+<br/>
+
+| Role | Organisation | When |
+|---|---|---|
+| Project and Technical Wing | [CSE Club, PSTU](https://cseclub.pstu.ac.bd/): events, workshops, hackathons and contests for 500+ students | Jan – Dec 2025 |
+| Rover Mate | PSTU Rover Scout: built and maintained the group website, coordinated tech events | Jan 2022 – Dec 2025 |
+| Secretary of Science and Technology | Tarunyer Shopno Foundation: workshops for school and college students | Jul 2019 – May 2020 |
+
+</details>
 
 ---
 
@@ -149,6 +220,7 @@ My work sits between **engineering and research**: I dig into why the editor and
       <a href="https://wordpress.org/plugins/elementskit-lite/"><img src="https://ps.w.org/elementskit-lite/assets/banner-772x250.jpg?rev=3643340" alt="ElementsKit" width="100%"/></a>
       <h3><img src="https://ps.w.org/elementskit-lite/assets/icon-256x256.gif?rev=2518175" width="22" align="top"/> ElementsKit <sup>Pro · Lite · Essential</sup></h3>
       <p>Elementor addons and templates: 100+ widgets, mega menu, header/footer builder.</p>
+      <sub>My widgets and tools: TikTok Feed, Circle Menu, Hotspot, Protected Content, Iconpack Generator, advanced popup search.</sub><br/><br/>
       <img src="https://img.shields.io/badge/commits-60-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/PHP-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"/>
     </td>
   </tr>
@@ -160,8 +232,8 @@ My work sits between **engineering and research**: I dig into why the editor and
       <img src="https://img.shields.io/badge/commits-55-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Dashboard-Analytics-EC4899?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🗓️ Rox Booking Engine</h3>
-      <p>Appointment booking platform: agents, schedules, customers, orders and Stripe payments over a modular REST API.</p>
+      <h3>🗓️ <a href="https://wordpress.org/plugins/rox-appointment-bookings/">Rox Appointment Booking</a></h3>
+      <p>Appointment booking plugin: agents, schedules, customers, orders and Stripe payments (pay-later and deposits) over a REST API with role-based access, custom email gateways and UTC-normalised times.</p>
       <img src="https://img.shields.io/badge/commits-138-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
       <br/><br/>
       <h3>💳 RoxStripe</h3>
@@ -270,6 +342,87 @@ gantt
     Responsive dashboard        :done, 2026-07-07, 2026-09-08
     i18n & integrations         :done, 2026-08-17, 2026-10-11
 ```
+
+---
+
+## 🌍 Open Source & Personal Projects
+
+<table>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <a href="https://github.com/engrshishir"><img src="https://avatars.githubusercontent.com/u/60442502?v=4" width="80" alt="engrshishir"/></a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/engrshishir">@engrshishir</a></b> · my personal GitHub since 2020 · <i>"Code never lie"</i><br/>
+      <img src="https://img.shields.io/badge/repositories-75-7C3AED?style=flat-square"/>
+      <img src="https://img.shields.io/badge/contributions%20(last%20year)-452-EC4899?style=flat-square"/>
+      <img src="https://img.shields.io/github/followers/engrshishir?style=flat-square&color=4F46E5&label=followers"/>
+      <br/>
+      <img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="44" alt="Pull Shark x2" title="Pull Shark x2"/>
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="44" alt="Quickdraw" title="Quickdraw"/>
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="44" alt="YOLO" title="YOLO"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=engrshishir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=EC4899&text_color=c9d1d9&custom_title=Personal%20account%20stats" alt="engrshishir stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrshishir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" alt="engrshishir languages"/>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/laradashboard/laradashboard">Lara Dashboard</a></h4>
+      <img src="https://img.shields.io/github/stars/laradashboard/laradashboard?style=flat-square&color=F59E0B&label=stars"/> <img src="https://img.shields.io/github/forks/laradashboard/laradashboard?style=flat-square&color=7C3AED&label=forks"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+      <sub>Open-source Laravel CMS and enterprise dashboard: users, roles, permissions, modules, settings and translations. I worked on the modular architecture, JWT auth, data isolation, CRM modules, RabbitMQ, Redis and Elasticsearch. <a href="https://demo.laradashboard.com/">Live demo</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏦 <a href="https://amarsomiti.com/">AmarSomiti</a></h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
+      <sub>Cooperative financial management system: DPS, FDR, savings, shares and loans, with SSLCommerz payments, bulk SMS, transaction integrity and RabbitMQ for background jobs.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧰 <a href="https://github.com/engrshishir/larainitializer">larainitializer</a></h4>
+      <sub>A Laravel package that sets up the basics of a new project so you can start building faster.</sub>
+      <h4>🔎 <a href="https://github.com/engrshishir/laravel-app-info">laravel-app-info</a></h4>
+      <sub>A Laravel package for quick insights into your application.</sub>
+      <h4>🏛️ <a href="https://github.com/engrshishir/larasolidarc">larasolidarc</a></h4>
+      <sub>SOLID architecture for Laravel applications.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐍 <a href="https://github.com/engrshishir/engr-colab-github">engr-colab-github</a></h4>
+      <sub>A Python package for managing GitHub repositories from Google Colab or locally: token auth, create, clone and everyday git actions.</sub>
+      <h4>🤖 <a href="https://github.com/engrshishir/Chatbot-Python-Js">PSTU Dialogue</a></h4>
+      <sub>A chatbot for quick answers on PSTU academic programs, admissions, campus details and events.</sub>
+      <h4>📘 <a href="https://github.com/engrshishir/Django-Portfolio">Django step-by-step</a></h4>
+      <sub>A learning repository that walks through Django one step at a time.</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📦 More from my personal account</b></summary>
+
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Online Voting System](https://onlinevoting.pstu.ac.bd/) | Voting platform used by the PSTU community | Web |
+| [bangla-dua](https://github.com/engrshishir/bangla-dua) | Bangla dua data for a Chrome extension | Data |
+| [Laravel-Exam-Management-System](https://github.com/engrshishir/Laravel-Exam-Management-System) | Exam management project | Laravel, Blade |
+| [Registration, login and password reset with email verification](https://github.com/engrshishir/Registration-Login-Forgot-Password-System-With-Email-Verification-Link-using--PHP-) | Full auth flow in plain PHP | PHP |
+| [Lumen-Api-Instruction-2021](https://github.com/engrshishir/Lumen-Api-Instruction-2021) | Lumen API guide | PHP, Lumen |
+| [Laravel-React-Api-Task-Management-2020](https://github.com/engrshishir/Laravel-React-Api-Task-Management-2020) | Task manager with a Laravel API and React front-end | Laravel, React |
+| [University-Management-System](https://github.com/engrshishir/University-Management-System) | University management app | Java |
+| [SHISHIR-CSE-PSTU](https://github.com/engrshishir/SHISHIR-CSE-PSTU) | Lecture notes, assignments and code samples for CSE students | Notes |
+| [Simulation](https://github.com/engrshishir/Simulation) | Simulation notebooks | Jupyter |
+| Laravel how-tos | [Ajax CRUD](https://github.com/engrshishir/Laravel-Ajax-Crud), [form validation](https://github.com/engrshishir/Laravel-Form-validation), [image CRUD](https://github.com/engrshishir/Laravel-Image-Crud-Operation), [social login](https://github.com/engrshishir/Laravel-Social-Login), [mailing](https://github.com/engrshishir/Laravel-Mailing) | Laravel |
+| React and Node practice | [Redux book app](https://github.com/engrshishir/Redux-Book-App), [React CRUD](https://github.com/engrshishir/React-Crud), [Node.js MySQL CRUD](https://github.com/engrshishir/Nodejs-Mysql-Crud) | React, Node.js |
+
+</details>
 
 ---
 
@@ -467,7 +620,9 @@ gantt
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,react,nodejs,html,css,sass,tailwind,mysql,webpack&perline=12" alt="languages"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=wordpress,php,laravel,js,ts,react,nodejs,python,c,cpp,html,css&perline=12" alt="languages"/></a>
+  <br/><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap,mysql,postgres,mongodb,redis,elasticsearch,rabbitmq,pytorch,sklearn,webpack&perline=12" alt="data and frameworks"/></a>
   <br/><br/>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman,figma,npm&perline=12" alt="tools"/></a>
 </p>
@@ -515,9 +670,12 @@ gantt
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/shishir-xs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://wpmet.com"><img src="https://img.shields.io/badge/Wpmet-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wpmet"/></a>
-  <a href="https://xpeedstudio.com"><img src="https://img.shields.io/badge/XpeedStudio-EC4899?style=for-the-badge&logoColor=white" alt="XpeedStudio"/></a>
+  <a href="https://engrshishir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shishir-cse-pstu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/engg_shishir"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:shishir.cse.pstu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/engrshishir"><img src="https://img.shields.io/badge/@engrshishir-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub"/></a>
+  <a href="https://roxnor.com"><img src="https://img.shields.io/badge/RoxNor-EC4899?style=for-the-badge&logoColor=white" alt="RoxNor"/></a>
 </p>
 
 <p align="center">
