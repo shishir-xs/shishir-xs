@@ -4,17 +4,17 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=230&section=header&text=Shishir%20Bhuiyan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Project%20Lead%20%E2%80%A2%20WordPress%20Product%20R%26D&descAlignY=58&descSize=18" width="100%" alt="Shishir Bhuiyan"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=230&section=header&text=Shishir%20Bhuiyan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20WordPress%20Product%20R%26D&descAlignY=58&descSize=18" width="100%" alt="Shishir Bhuiyan"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Shipping+GutenKit%2C+ElementsKit+%26+PopupKit+at+Wpmet;Leading+Rox+Booking+Engine+%26+RoxStripe;Researching+block-editor+parity+%26+deprecations;Secure%2C+accessible%2C+translatable+by+default" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Shipping+GutenKit%2C+ElementsKit+%26+PopupKit+at+Wpmet;Building+Rox+Booking+Engine+%26+RoxStripe;Researching+block-editor+parity+%26+deprecations;Secure%2C+accessible%2C+translatable+by+default" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%26%20Project%20Lead-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="role"/>
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-7C3AED?style=for-the-badge&labelColor=1e1b4b" alt="role"/>
   <a href="https://wpmet.com"><img src="https://img.shields.io/badge/Wpmet%20%C2%B7%20XpeedStudio-EC4899?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1e1b4b" alt="Wpmet"/></a>
   <img src="https://komarev.com/ghpvc/?username=shishir-xs&label=Profile%20Views&color=4F46E5&style=for-the-badge" alt="views"/>
 </p>
@@ -44,28 +44,21 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding"/>
 
-I build and lead work on **WordPress products used by millions of sites**, from Gutenberg blocks and Elementor widgets to booking and payment systems.
+I build **WordPress products used by millions of sites**, from Gutenberg blocks and Elementor widgets to booking and payment systems.
 
 My work sits between **engineering and research**: I dig into why the editor and the live site act differently, how block deprecations break saved content, and how to make plugins secure, accessible and translatable without slowing them down.
 
 - 🧱 **Block engineering**: GutenKit Free and Pro, plus the shared `gkit-components` library
 - 🧩 **Elementor ecosystem**: ElementsKit Pro, Lite and Essential
 - 🎯 **Conversion tooling**: PopupKit dashboard, A/B testing and analytics UI
-- 🗓️ **Project lead**: Rox Booking Engine (appointments, orders, payments) and RoxStripe
+- 🗓️ **Booking & payments**: Rox Booking Engine (appointments, orders, payments) and RoxStripe
 - 🔐 **Security mindset**: rate limiting, nonces, XSS and open-redirect hardening
 
 <br clear="right"/>
 
-```yaml
-# whoami
-name:      Shishir Bhuiyan
-role:      Software Engineer & Project Lead
-company:   Wpmet · XpeedStudio
-focus:     [Gutenberg blocks, Elementor widgets, REST APIs, payments]
-languages: [PHP, JavaScript, TypeScript, SCSS, SQL]
-editor:    VS Code
-motto:     "What you edit is what ships."
-```
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: whoami shishir-xs, Software Engineer at Wpmet; 492 commits in 2026; products gutenkit, elementskit, popupkit, booking-engine, roxstripe" width="100%"/>
+</p>
 
 ### ⚡ Currently
 
@@ -167,11 +160,11 @@ motto:     "What you edit is what ships."
       <img src="https://img.shields.io/badge/commits-55-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Dashboard-Analytics-EC4899?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🗓️ Rox Booking Engine <sup>Project Lead</sup></h3>
+      <h3>🗓️ Rox Booking Engine</h3>
       <p>Appointment booking platform: agents, schedules, customers, orders and Stripe payments over a modular REST API.</p>
       <img src="https://img.shields.io/badge/commits-138-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
       <br/><br/>
-      <h3>💳 RoxStripe <sup>Project Lead</sup></h3>
+      <h3>💳 RoxStripe</h3>
       <p>Stripe integration for WordPress with default and custom UIs, a shortcode form and a transaction status chart.</p>
       <img src="https://img.shields.io/badge/commits-11-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/PHP-strict__types-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
@@ -211,6 +204,28 @@ motto:     "What you edit is what ships."
 </details>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/chart-weekday-dark.svg"/>
+    <img src="./assets/chart-weekday-light.svg" alt="Commits by weekday: Sun 75, Mon 135, Tue 120, Wed 61, Thu 97, Fri 0, Sat 4" width="49%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/chart-types-dark.svg"/>
+    <img src="./assets/chart-types-light.svg" alt="Commit types: improve or refactor 133, feature 105, fix 84, merge 57, changelog 51, other 62" width="49%"/>
+  </picture>
+</p>
+
+### 🎲 Fun Facts From My Commit History
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">🔥<br/><b>25 commits</b><br/><sub>busiest day<br/>27 Jul 2026</sub></td>
+    <td align="center" width="25%">📅<br/><b>Monday</b><br/><sub>favourite day<br/>135 commits</sub></td>
+    <td align="center" width="25%">🏖️<br/><b>0 on Fridays</b><br/><sub>weekends are<br/>for recharging</sub></td>
+    <td align="center" width="25%">⚙️<br/><b>88 active days</b><br/><sub>about 5.6 commits<br/>per active day</sub></td>
+  </tr>
+</table>
+
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shishir-xs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=EC4899&text_color=c9d1d9&rank_icon=github" alt="stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-xs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" alt="top languages"/>
 </p>
@@ -239,7 +254,7 @@ gantt
     title Project timeline · 2026
     dateFormat YYYY-MM-DD
     axisFormat %b
-    section Lead
+    section Booking & Payments
     Rox Booking Engine          :done, 2026-01-05, 2026-02-26
     RoxStripe                   :done, 2026-01-29, 2026-02-04
     section GutenKit
@@ -255,6 +270,43 @@ gantt
     Responsive dashboard        :done, 2026-07-07, 2026-09-08
     i18n & integrations         :done, 2026-08-17, 2026-10-11
 ```
+
+---
+
+## 🌟 Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 Login Form block <sup>GutenKit Pro</sup></h4>
+      <sub>A full login, registration and reset-password block with social login, built with rate limiting, nonce checks and XSS protection from the start.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗂️ Post Tab with custom post types <sup>GutenKit</sup></h4>
+      <sub>Post Tab now works with any post type and taxonomy, rendered on the server with dynamic tab headers.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Fully responsive dashboard <sup>PopupKit</sup></h4>
+      <sub>Every admin screen (campaigns, analytics, A/B testing, subscribers, settings) reworked for tablet and mobile, with skeleton loaders.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Widget Library <sup>ElementsKit Essential</sup></h4>
+      <sub>A widget that lists every ElementsKit widget and module, with filter tabs and badges generated from the live widget list.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📸 Instagram feed upgrade <sup>ElementsKit</sup></h4>
+      <sub>Video posts, a reaction footer and profile header controls for the Instagram widget.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗓️ Booking and payment flow <sup>Rox Booking Engine</sup></h4>
+      <sub>Orders, appointments and Stripe payments saved together in one transaction, with batch bookings and confirmation emails.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -364,7 +416,7 @@ gantt
 </details>
 
 <details>
-<summary>🗓️ <b>Rox Booking Engine</b> (Project Lead) <code>Jan – Feb 2026</code></summary>
+<summary>🗓️ <b>Rox Booking Engine</b> <code>Jan – Feb 2026</code></summary>
 
 <br/>
 
@@ -383,7 +435,7 @@ gantt
 </details>
 
 <details>
-<summary>💳 <b>RoxStripe</b> (Project Lead) <code>Jan – Feb 2026</code></summary>
+<summary>💳 <b>RoxStripe</b> <code>Jan – Feb 2026</code></summary>
 
 <br/>
 

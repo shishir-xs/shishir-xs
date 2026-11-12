@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="330" viewBox="0 0 840 330">
+<style>.l{opacity:0;animation:a .4s forwards;font:14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}@keyframes a{to{opacity:1}}@keyframes b{50%{opacity:0}}.c{animation:b 1s step-end infinite}</style>
+<rect x="0.5" y="0.5" width="839" height="329" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1,38 V10 Q1,1 10,1 H830 Q839,1 839,10 V38 Z" fill="#161b22"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="42" cy="20" r="6" fill="#febc2e"/><circle cx="62" cy="20" r="6" fill="#28c840"/>
+<text x="420.0" y="25" text-anchor="middle" fill="#9198a1" style="font:13px ui-monospace,Menlo,Consolas,monospace">shishir@wpmet: ~</text>
+<text class="l" style="animation-delay:0.3s" x="22" y="66"><tspan fill="#28c840">➜</tspan><tspan fill="#9085e9" dx="8">~</tspan><tspan fill="#f0f6fc" dx="8">whoami</tspan></text>
+<text class="l" style="animation-delay:1.0s" x="22" y="90" fill="#9198a1">shishir-xs · Software Engineer @ Wpmet</text>
+<text class="l" style="animation-delay:1.7s" x="22" y="118"><tspan fill="#28c840">➜</tspan><tspan fill="#9085e9" dx="8">~</tspan><tspan fill="#f0f6fc" dx="8">git shortlog -sn --since=2026-01-01</tspan></text>
+<text class="l" style="animation-delay:2.4s" x="22" y="142" fill="#9198a1">   492  Shishir Bhuiyan</text>
+<text class="l" style="animation-delay:3.1s" x="22" y="170"><tspan fill="#28c840">➜</tspan><tspan fill="#9085e9" dx="8">~</tspan><tspan fill="#f0f6fc" dx="8">ls products/</tspan></text>
+<text class="l" style="animation-delay:3.8s" x="22" y="194" fill="#9198a1">gutenkit/  elementskit/  popupkit/  booking-engine/  roxstripe/</text>
+<text class="l" style="animation-delay:4.5s" x="22" y="222"><tspan fill="#28c840">➜</tspan><tspan fill="#9085e9" dx="8">~</tspan><tspan fill="#f0f6fc" dx="8">cat today.txt</tspan></text>
+<text class="l" style="animation-delay:5.2s" x="22" y="246" fill="#9198a1">Building the GutenKit Pro Login Form block</text>
+<text class="l" style="animation-delay:5.9s" x="22" y="274"><tspan fill="#28c840">➜</tspan><tspan fill="#9085e9" dx="8">~</tspan><tspan fill="#f0f6fc" dx="8">echo $MOTTO</tspan></text>
+<text class="l" style="animation-delay:6.6s" x="22" y="298" fill="#9198a1">What you edit is what ships.</text>
+<g class="l" style="animation-delay:7.3s"><text x="22" y="326" style="font:14px ui-monospace,Menlo,Consolas,monospace"><tspan fill="#28c840">➜</tspan><tspan fill="#9085e9" dx="8">~</tspan></text><rect class="c" x="62" y="313" width="9" height="16" fill="#f0f6fc"/></g>
+</svg>
