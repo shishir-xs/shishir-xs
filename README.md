@@ -1,5 +1,9 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
+  <img src="https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Scx_hfG9B6RkT95INkGeyh5QDtcmQ39mr-5rc2HTsY7gqRO69nPa81jMhKDg1wGsgodpvXzWWEFN6VJzdFSuAbHzzy25dGAd602kgg0MSq-zbVUvsHIKOy2VFXlHAnSKZuVEqb4ZsaD7iH=s680-w680-h510-rw" width="100%" alt="Banner"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=230&section=header&text=Shishir%20Bhuiyan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Project%20Lead%20%E2%80%A2%20WordPress%20Product%20R%26D&descAlignY=58&descSize=18" width="100%" alt="Shishir Bhuiyan"/>
 </p>
 
