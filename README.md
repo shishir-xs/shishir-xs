@@ -35,6 +35,7 @@
   <a href="#-about"><img src="https://img.shields.io/badge/About-1e1b4b?style=for-the-badge" alt="About"/></a>
   <a href="#-journey"><img src="https://img.shields.io/badge/Journey-1e1b4b?style=for-the-badge" alt="Journey"/></a>
   <a href="#-research-publications"><img src="https://img.shields.io/badge/Research-1e1b4b?style=for-the-badge" alt="Research"/></a>
+  <a href="#-posts--learning"><img src="https://img.shields.io/badge/Posts-1e1b4b?style=for-the-badge" alt="Posts"/></a>
   <a href="#-products-i-build"><img src="https://img.shields.io/badge/Products-1e1b4b?style=for-the-badge" alt="Products"/></a>
   <a href="#-contribution-analytics"><img src="https://img.shields.io/badge/Analytics-1e1b4b?style=for-the-badge" alt="Analytics"/></a>
   <a href="#-open-source--personal-projects"><img src="https://img.shields.io/badge/Open%20Source-1e1b4b?style=for-the-badge" alt="Open Source"/></a>
@@ -359,6 +360,73 @@ timeline
 > Random Forests were traditionally not effective in dealing with changing data streams that have concept drift since they are not typically knowledge management over time. It is the issue of concept drift that appears because of the time dependent changes in the distribution of data. In response to this, the FTWERF suggests the use of the temporally weighted layer to prioritize the more recent data and allow the responsiveness to the newly created patterns. Besides, self evolving strategy and the alteration of the architecture is used by TWERF to guarantee that data is used optimally as the dynamics change. This flexibility is very essential in proper reflection or representation of dynamic systems. This is why it is a good candidate for Federated Learning, a process of training a model over a large number of devices while keeping all the devices synchronized without necessarily storing raw data on a central computer. By gathering these three aspects, the safety is enhanced, memory footprints are minimized, and the processes go on faster. Experimentally We verify FTWERF by proving it is significantly better than simple Random Forests and even competing with the state-of-the-art algorithms. One of the areas that FTWERF is able to handle is temporal data as shown by these results. Such adaptability and adjustment of the structure make it a sound and speedy solution to adapt to the changes of the real-world issues which provide unceasing changes of data streams. FTWERF is advantageous as it is a temporal environment that is training free and provides a great and corrective predictive model of dynamic data-affine tasks. In more specific terms, the temporal weighting is based on an adaptive window in order to give more priority to data that is more relevant to the current detection, and the part that is self evolving is the one that further produces the tree structure and feature selection in a manner that is understandable to evolutionary biology.
 
 </details>
+
+---
+
+## 📣 Posts & Learning
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" align="top"/> Learning in public</h3>
+      <sub>Short explainers on software architecture and AI tooling, plus certificates and course updates.</sub><br/><br/>
+      <a href="https://www.linkedin.com/in/shishir-cse-pstu/"><img src="https://img.shields.io/badge/Follow-330%20followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on LinkedIn"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" align="top"/> Research & campus life</h3>
+      <sub>Conference trips, paper presentations and university moments.</sub><br/><br/>
+      <a href="https://www.facebook.com/shishir.pstu/"><img src="https://img.shields.io/badge/Follow-shishir.pstu-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook"/></a>
+    </td>
+  </tr>
+</table>
+
+### 💼 From LinkedIn
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏋️ <a href="https://www.linkedin.com/feed/update/urn:li:activity:7451238108312002560">Load Balancer</a></h4>
+      <img src="https://img.shields.io/badge/System%20Design-4F46E5?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-7C3AED?style=flat-square"/><br/>
+      <sub>"In modern software architecture, a Load Balancer is a specialized piece of hardware or software that sits between the…"</sub><br/><br/>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7451238108312002560"><img src="https://img.shields.io/badge/Read%20the%20post-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Read the post"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7446938292408926208">Model Context Protocol (MCP)</a></h4>
+      <img src="https://img.shields.io/badge/AI%20Tooling-EC4899?style=flat-square"/> <img src="https://img.shields.io/badge/Open%20Standard-0EA5E9?style=flat-square"/><br/>
+      <sub>"The Model Context Protocol (MCP) is an open standard introduced by Anthropic on November 28, 2024, designed to…"</sub><br/><br/>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7446938292408926208"><img src="https://img.shields.io/badge/Read%20the%20post-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Read the post"/></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://engrshishir.vercel.app/certifications"><img src="./assets/slider-certificates.svg" alt="Slideshow of certificates: Supervised Machine Learning (Coursera), PHP Software Engineer Internship (RoxNor), Agile Project Management and Effective Leadership (HP LIFE), Introduction to Packet Tracer (Cisco)" width="100%"/></a>
+</p>
+
+<details>
+<summary><b>🎓 Certificates as a list</b></summary>
+
+<br/>
+
+| Certificate | Issuer | Date | Verify |
+|---|---|---|---|
+| Supervised Machine Learning: Regression and Classification | Coursera (Stanford, DeepLearning.AI) | Jan 2025 | [Credential](https://www.coursera.org/account/accomplishments/verify/WH897LRMYRDS) |
+| PHP Software Engineer Internship | RoxNor | Apr 2026 | [RoxNor](https://www.roxnor.com) |
+| Agile Project Management | HP LIFE | Oct 2024 | [Credential](https://www.life-global.org/certificate/8a536866-56d6-423b-a908-b1bfff75b5cf) |
+| Effective Leadership | HP LIFE | Oct 2024 | [Credential](https://www.life-global.org/certificate/b7a58565-2981-4bd7-8ed2-8c6bac4fb51f) |
+| Introduction to Packet Tracer | Cisco Networking Academy | Sep 2023 | [Badge](https://www.credly.com/badges/da290872-fac5-4fed-84cb-2c5b1be255c9) |
+
+</details>
+
+### 📘 From Facebook
+
+<p align="center">
+  <a href="https://www.facebook.com/shishir.pstu/"><img src="./assets/slider-conferences.svg" alt="Slideshow of 14 conference photos from ICECTE 2026 at RUET and IEEE ICTP 2025 at BUET" width="100%"/></a>
+</p>
+
+<p align="center">
+  <sub>Moments from ICECTE 2026 (RUET) and IEEE ICTP 2025 (BUET). More on <a href="https://www.facebook.com/shishir.pstu/">Facebook</a>.</sub>
+</p>
 
 ---
 
@@ -934,6 +1002,7 @@ I contributed to it while at Squartup: the modular architecture, JWT authenticat
 <p align="center">
   <a href="https://engrshishir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/shishir-cse-pstu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/shishir.pstu/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://twitter.com/engg_shishir"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:shishir.cse.pstu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/engrshishir"><img src="https://img.shields.io/badge/@engrshishir-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub"/></a>
