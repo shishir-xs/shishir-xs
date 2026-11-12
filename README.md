@@ -34,6 +34,7 @@
 <p align="center">
   <a href="#-about"><img src="https://img.shields.io/badge/About-1e1b4b?style=for-the-badge" alt="About"/></a>
   <a href="#-journey"><img src="https://img.shields.io/badge/Journey-1e1b4b?style=for-the-badge" alt="Journey"/></a>
+  <a href="#-research-publications"><img src="https://img.shields.io/badge/Research-1e1b4b?style=for-the-badge" alt="Research"/></a>
   <a href="#-products-i-build"><img src="https://img.shields.io/badge/Products-1e1b4b?style=for-the-badge" alt="Products"/></a>
   <a href="#-contribution-analytics"><img src="https://img.shields.io/badge/Analytics-1e1b4b?style=for-the-badge" alt="Analytics"/></a>
   <a href="#-open-source--personal-projects"><img src="https://img.shields.io/badge/Open%20Source-1e1b4b?style=for-the-badge" alt="Open Source"/></a>
@@ -142,7 +143,7 @@ timeline
     <td width="50%" valign="top">
       <h4>📄 4× IEEE Publications</h4>
       <img src="https://img.shields.io/badge/IEEE-4%20papers-00629B?style=flat-square&logo=ieee&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/><br/><br/>
-      <sub>Research work during my degree, using PyTorch, scikit-learn, Pandas and NumPy.</sub>
+      <sub>First author on all four: JWT security with LSTM, a metamaterial gas sensor, IoT aquaculture with federated learning, and a federated forest for drifting data. <a href="#-research-publications">See the papers ↓</a></sub>
       <h4>🏅 Ankur International Undergraduate Scholarship</h4>
       <sub>Feb 2022 – Feb 2024 · awarded for academic project excellence and research potential.</sub>
     </td>
@@ -159,6 +160,203 @@ timeline
 | Project and Technical Wing | [CSE Club, PSTU](https://cseclub.pstu.ac.bd/): events, workshops, hackathons and contests for 500+ students | Jan – Dec 2025 |
 | Rover Mate | PSTU Rover Scout: built and maintained the group website, coordinated tech events | Jan 2022 – Dec 2025 |
 | Secretary of Science and Technology | Tarunyer Shopno Foundation: workshops for school and college students | Jul 2019 – May 2020 |
+
+</details>
+
+---
+
+## 📚 Research Publications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IEEE-4%20conference%20papers-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="4 IEEE conference papers"/>
+  <img src="https://img.shields.io/badge/First%20author-4%20of%204-7C3AED?style=for-the-badge" alt="first author on all four"/>
+  <a href="https://engrshishir.vercel.app/publications"><img src="https://img.shields.io/badge/The%20Research%20Hub-EC4899?style=for-the-badge" alt="The Research Hub"/></a>
+</p>
+
+| # | Paper | Venue | Host | Topic |
+|---|---|---|---|---|
+| 1 | [EjwT](https://ieeexplore.ieee.org/document/11429432/) | ICECTE 2026 | Faculty of ECE, RUET | Security · Deep learning |
+| 2 | [Metamaterial Absorber for Gas Detection](https://doi.org/10.1109/ICTP68765.2025.11415096) | ICTP 2025 | BUET | Metamaterials · ML |
+| 3 | [MachDishari](https://ieeexplore.ieee.org/abstract/document/11502376) | RAAICON 2025 | MIST | IoT · Federated learning · XAI |
+| 4 | [FTWERF](https://ieeexplore.ieee.org/document/11504106) | SPICSCON 2025 | RU | Federated learning · Concept drift |
+
+### 🔐 1. [EjwT: Enhancing JWT Security through Dynamic Cryptographic & LSTM Networks](https://ieeexplore.ieee.org/document/11429432/)
+
+<table>
+  <tr>
+    <td width="110" align="center" valign="top">
+      <a href="https://ruet.ac.bd"><img src="https://icecte.ruet.ac.bd/images/RUET.png" width="72" alt="Faculty of ECE, RUET"/></a><br/>
+      <sub>Hosted by<br/><b>Faculty of ECE, RUET</b></sub>
+    </td>
+    <td valign="top">
+      👥 <b>Shishir Bhuiya</b>, G. M. Shakil, Golam Md. Muradul Bashir, Md. Samsuzzaman<br/>
+      🏛️ <a href="https://icecte.ruet.ac.bd/">5th International Conference on Electrical, Computer &amp; Telecommunication Engineering (ICECTE 2026)</a><br/><br/>
+      A safer extension of JWT login tokens: randomised cryptography with AES-GCM encryption, plus an LSTM model that spots suspicious logins in real time.<br/><br/>
+      <img src="https://img.shields.io/badge/JWT%20Security-4F46E5?style=flat-square" alt="JWT Security"/> <img src="https://img.shields.io/badge/Authentication-4F46E5?style=flat-square" alt="Authentication"/> <img src="https://img.shields.io/badge/Cryptography-4F46E5?style=flat-square" alt="Cryptography"/> <img src="https://img.shields.io/badge/LSTM-4F46E5?style=flat-square" alt="LSTM"/> <img src="https://img.shields.io/badge/Anomaly%20Detection-4F46E5?style=flat-square" alt="Anomaly Detection"/> <img src="https://img.shields.io/badge/AES--GCM-4F46E5?style=flat-square" alt="AES-GCM"/> <img src="https://img.shields.io/badge/Cybersecurity-4F46E5?style=flat-square" alt="Cybersecurity"/>
+      <br/><br/>
+      <a href="https://ieeexplore.ieee.org/document/11429432/"><img src="https://img.shields.io/badge/Read%20on%20IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Read on IEEE Xplore"/></a>
+      <a href="https://drive.google.com/uc?export=download&amp;id=11FGFMNWKyzYQqDU2PZo7R0Gqcrzq76-O"><img src="https://img.shields.io/badge/PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"/></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>99.60%</b><br/><sub>accuracy</sub></td>
+    <td align="center" width="25%"><b>97.00%</b><br/><sub>recall</sub></td>
+    <td align="center" width="25%"><b>96.04%</b><br/><sub>F1-score</sub></td>
+    <td align="center" width="25%"><b>33M+</b><br/><sub>auth events</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>▶ Show abstract</b></summary>
+<br/>
+
+> JSON Web Tokens (JWTs) are widely adopted as part of stateless authentication systems, but they are still vulnerable to theft of tokens, brute-force attacks, 'alg none' attack risks, and unauthorized access due to the lack of encryption and server side revocation systems. In this paper, the Extended JSON Web Token (EjwT), a safe extension of JWTs based upon dynamic cryptographic randomization, is proposed. The main elements of the proposed scheme are nonce calculation, key identifier swapping, algorithm agility, and encryption using AES-GCM, together with real-time anomaly detection performed by Long Short-Term Memory (LSTM) networks. This work trained the model with a dataset containing more than 33 million authentication events. Techniques like Interquartile Range (IQR) outlier filtering, SMOTE to handle class imbalance, and Pearson Correlation Coefficient driven feature selection are also employed. And with empirical validation, a 99.60% accuracy rate, 95.10% precision, 97.00% recall rate, and 96.04% F1-score are achieved, clearly offering a great step forward from traditional JWTs with regard to integrity, confidentiality, revocation, and resilience to brute force attacks with multi-layered risk-based authentication.
+
+</details>
+
+<details>
+<summary><b>📸 Conference gallery</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/1.jpg" width="32%" alt="ICECTE 2026 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/2.jpg" width="32%" alt="ICECTE 2026 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/3.jpg" width="32%" alt="ICECTE 2026 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/4.jpg" width="32%" alt="ICECTE 2026 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/5.jpg" width="32%" alt="ICECTE 2026 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/6.jpg" width="32%" alt="ICECTE 2026 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/7.jpg" width="32%" alt="ICECTE 2026 conference photo"/>
+</p>
+
+</details>
+
+### 📡 2. [Machine Learning-Enhanced Polarization Insensitive Metamaterial Absorber for Hazardous Gas Detection](https://doi.org/10.1109/ICTP68765.2025.11415096)
+
+<table>
+  <tr>
+    <td width="110" align="center" valign="top">
+      <a href="https://www.buet.ac.bd/web/#/"><img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/buet.svg" width="72" alt="BUET"/></a><br/>
+      <sub>Hosted by<br/><b>BUET</b></sub>
+    </td>
+    <td valign="top">
+      👥 <b>Shishir Bhuiya</b>, Shadia Islam Ankur<br/>
+      🏛️ <a href="https://ieee-ictp.buet.ac.bd/">6th IEEE International Conference on Telecommunications and Photonics (ICTP) 2025</a> · December 18-19, 2025<br/><br/>
+      A terahertz metamaterial absorber for detecting hazardous gases, with a KNN model that predicts its performance and cuts simulation time.<br/><br/>
+      <img src="https://img.shields.io/badge/Metamaterials-4F46E5?style=flat-square" alt="Metamaterials"/> <img src="https://img.shields.io/badge/THz%20Absorber-4F46E5?style=flat-square" alt="THz Absorber"/> <img src="https://img.shields.io/badge/KNN%20Regressor-4F46E5?style=flat-square" alt="KNN Regressor"/> <img src="https://img.shields.io/badge/Electromagnetic%20Shielding-4F46E5?style=flat-square" alt="Electromagnetic Shielding"/> <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=flat-square" alt="Machine Learning"/> <img src="https://img.shields.io/badge/Sensing%20Applications-4F46E5?style=flat-square" alt="Sensing Applications"/>
+      <br/><br/>
+      <a href="https://doi.org/10.1109/ICTP68765.2025.11415096"><img src="https://img.shields.io/badge/Read%20on%20IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Read on IEEE Xplore"/></a>
+      <a href="https://drive.google.com/uc?export=download&amp;id=1FkO3Udoy0A9BPzfJiff3k2FGSqV-jfKC"><img src="https://img.shields.io/badge/PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"/></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>99.96%</b><br/><sub>absorptivity</sub></td>
+    <td align="center" width="25%"><b>0.89 THz</b><br/><sub>resonance</sub></td>
+    <td align="center" width="25%"><b>0.9993</b><br/><sub>adjusted R²</sub></td>
+    <td align="center" width="25%"><b>85%</b><br/><sub>less simulation time</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>▶ Show abstract</b></summary>
+<br/>
+
+> Metamaterials are synthetically engineered materials that reflect unique properties attributable to their geometric configuration. The conventional design of MMA is a complex process that necessitates the utilization of computationally demanding full-wave simulators. This research presents a THz metamaterial absorber (MMA) comprising a metallic resonant patch situated above a metallic ground plane, with an FR-4 dielectric substrate in between them. The MMA achieves a sharp resonant peak, a Q-factor of 23, and an absorptivity of 99.96% at 0.89 THz, with a sensitivity of 1.59(905GHz/RIU). At the minimum working frequency, the proposed design is thin (0.027λ) and compact (0.38λ). The KNN regressor attains an RMSE of 0.4576, an adjusted R2 value of 0.9993 for optimal absorptivity prediction, and yields an 85% reduction in simulation duration. It is suitable for electromagnetic interference shielding, stealth, and sensing applications, ensuring reliable performance across diverse environments.
+
+</details>
+
+<details>
+<summary><b>📸 Conference gallery</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/1.jpg" width="32%" alt="ICTP 2025 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/2.jpg" width="32%" alt="ICTP 2025 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/3.jpg" width="32%" alt="ICTP 2025 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/4.jpg" width="32%" alt="ICTP 2025 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/5.jpg" width="32%" alt="ICTP 2025 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/6.jpg" width="32%" alt="ICTP 2025 conference photo"/>
+  <img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/7.jpg" width="32%" alt="ICTP 2025 conference photo"/>
+</p>
+
+</details>
+
+### 🐟 3. [MachDishari: IoT- Enabled Aquaculture Using Federated Machine Learning and XAI](https://ieeexplore.ieee.org/abstract/document/11502376)
+
+<table>
+  <tr>
+    <td width="110" align="center" valign="top">
+      <a href="https://mist.ac.bd/"><img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/mist.png" width="72" alt="MIST"/></a><br/>
+      <sub>Hosted by<br/><b>MIST</b></sub>
+    </td>
+    <td valign="top">
+      👥 <b>Shishir Bhuiya</b>, Md Mohibullah Hawlader<br/>
+      🏛️ <a href="https://raaicon.org/2025/">4th IEEE International Conference on Robotics, Automation, Artificial-intelligence and Internet-of-Things</a><br/><br/>
+      IoT sensors watch pond water quality and a machine-learning model recommends which fish species to farm, trained with federated learning so farm data stays private.<br/><br/>
+      <img src="https://img.shields.io/badge/IoT-4F46E5?style=flat-square" alt="IoT"/> <img src="https://img.shields.io/badge/Aquaculture-4F46E5?style=flat-square" alt="Aquaculture"/> <img src="https://img.shields.io/badge/Federated%20Learning-4F46E5?style=flat-square" alt="Federated Learning"/> <img src="https://img.shields.io/badge/XAI-4F46E5?style=flat-square" alt="XAI"/> <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=flat-square" alt="Machine Learning"/> <img src="https://img.shields.io/badge/Water%20Quality%20Monitoring-4F46E5?style=flat-square" alt="Water Quality Monitoring"/> <img src="https://img.shields.io/badge/Fish%20Farming-4F46E5?style=flat-square" alt="Fish Farming"/> <img src="https://img.shields.io/badge/XGBoost-4F46E5?style=flat-square" alt="XGBoost"/>
+      <br/><br/>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11502376"><img src="https://img.shields.io/badge/Read%20on%20IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Read on IEEE Xplore"/></a>
+      <a href="https://drive.google.com/uc?export=download&amp;id=1G4k1I76-1NZCHZOyyKHmmj4Uj4b_SMG-"><img src="https://img.shields.io/badge/PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"/></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>99.8%</b><br/><sub>accuracy</sub></td>
+    <td align="center" width="25%"><b>8</b><br/><sub>water parameters</sub></td>
+    <td align="center" width="25%"><b>XGBoost</b><br/><sub>best model</sub></td>
+    <td align="center" width="25%"><b>FL + XAI</b><br/><sub>private and explainable</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>▶ Show abstract</b></summary>
+<br/>
+
+> The integration of innovative technologies such as the Internet of Things (IoT) and Machine Learning (ML) presents a transformative approach to enhancing traditional fish farming practices. Conventional fish farming often faces challenges due to high labor costs, unmonitored water quality monitoring changes, fish disease outbreaks, and recommendation of optimal fish species. In this paper, present MachDishari system that is IoT based ML recommendation system designed to automate water quality monitoring and suggests appropriate fish species based on various water quality parameters —including pH, temperature, TDS, water level, DO, BOD, COD and turbidity. We developed IoT sensors for real time data collection of water parameters, and machine learning algorithms including Random Forest (RF), Support Vector Machine (SVM), K-Nearest Neighbor (KNN) and Logistic Regression (LR) were applied to the pond water real-time dataset. Federated Learning (FL) into our design integrate for sensitive data privacy and train machine learning models collaboratively without centralizing sensitive data. This approach preserves data privacy and enables farms in remote areas to collaboratively improve model performance without risking data leakage. A range of XAI methods was applied in the present study to enhance the interpretability and transparency of fish recommendation. Among tested models XGBoost that achieved the best performance, delivering 99.8% accuracy was deployed in a web interface and app, enabling farmers to receive real time water quality assessments and fish species recommendations and then expected to enhance fish yield for modern aquaculture with preserving data privacy.
+
+</details>
+
+### 🌲 4. [FTWERF: A Federated Temporal Weighted Self Evolving Forest Framework Under Concept Drift](https://ieeexplore.ieee.org/document/11504106)
+
+<table>
+  <tr>
+    <td width="110" align="center" valign="top">
+      <a href="https://www.ru.ac.bd/"><img src="https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ru.png" width="72" alt="RU"/></a><br/>
+      <sub>Hosted by<br/><b>RU</b></sub>
+    </td>
+    <td valign="top">
+      👥 <b>Shishir Bhuiya</b><br/>
+      🏛️ <a href="https://spicscon.org/2025/">International Conference on Signal Processing, Information, Communication and Systems 2025</a><br/><br/>
+      A Random Forest that keeps up with data that changes over time: it weights recent data more, reshapes its own trees, and trains across devices without sharing raw data.<br/><br/>
+      <img src="https://img.shields.io/badge/Federated%20Learning-4F46E5?style=flat-square" alt="Federated Learning"/> <img src="https://img.shields.io/badge/Random%20Forest-4F46E5?style=flat-square" alt="Random Forest"/> <img src="https://img.shields.io/badge/Concept%20Drift-4F46E5?style=flat-square" alt="Concept Drift"/> <img src="https://img.shields.io/badge/Temporal%20Weighting-4F46E5?style=flat-square" alt="Temporal Weighting"/> <img src="https://img.shields.io/badge/Self--Evolving-4F46E5?style=flat-square" alt="Self-Evolving"/> <img src="https://img.shields.io/badge/Data%20Streams-4F46E5?style=flat-square" alt="Data Streams"/> <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=flat-square" alt="Machine Learning"/> <img src="https://img.shields.io/badge/Adaptive%20Systems-4F46E5?style=flat-square" alt="Adaptive Systems"/>
+      <br/><br/>
+      <a href="https://ieeexplore.ieee.org/document/11504106"><img src="https://img.shields.io/badge/Read%20on%20IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Read on IEEE Xplore"/></a>
+      <a href="https://drive.google.com/uc?export=download&amp;id=1vAE_dqw7SVj9ybxnVdtmvis11vyg1qIC"><img src="https://img.shields.io/badge/PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"/></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Sole</b><br/><sub>author</sub></td>
+    <td align="center" width="25%"><b>Federated</b><br/><sub>no raw data shared</sub></td>
+    <td align="center" width="25%"><b>Adaptive</b><br/><sub>time-weighted window</sub></td>
+    <td align="center" width="25%"><b>Self-evolving</b><br/><sub>tree structure</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>▶ Show abstract</b></summary>
+<br/>
+
+> Random Forests were traditionally not effective in dealing with changing data streams that have concept drift since they are not typically knowledge management over time. It is the issue of concept drift that appears because of the time dependent changes in the distribution of data. In response to this, the FTWERF suggests the use of the temporally weighted layer to prioritize the more recent data and allow the responsiveness to the newly created patterns. Besides, self evolving strategy and the alteration of the architecture is used by TWERF to guarantee that data is used optimally as the dynamics change. This flexibility is very essential in proper reflection or representation of dynamic systems. This is why it is a good candidate for Federated Learning, a process of training a model over a large number of devices while keeping all the devices synchronized without necessarily storing raw data on a central computer. By gathering these three aspects, the safety is enhanced, memory footprints are minimized, and the processes go on faster. Experimentally We verify FTWERF by proving it is significantly better than simple Random Forests and even competing with the state-of-the-art algorithms. One of the areas that FTWERF is able to handle is temporal data as shown by these results. Such adaptability and adjustment of the structure make it a sound and speedy solution to adapt to the changes of the real-world issues which provide unceasing changes of data streams. FTWERF is advantageous as it is a temporal environment that is training free and provides a great and corrective predictive model of dynamic data-affine tasks. In more specific terms, the temporal weighting is based on an adaptive window in order to give more priority to data that is more relevant to the current detection, and the part that is self evolving is the one that further produces the tree structure and feature selection in a manner that is understandable to evolutionary biology.
 
 </details>
 
