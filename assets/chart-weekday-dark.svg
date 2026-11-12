@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="300" viewBox="0 0 410 300" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="409" height="299" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="32" font-size="16" font-weight="600" fill="#f0f6fc">Which days I ship</text>
+<text x="20" y="51" font-size="12" fill="#9198a1">Commits by weekday, 2026</text>
+<line x1="24" x2="386" y1="264" y2="264" stroke="#30363d"/>
+<path d="M34.34285714285714,264 V176.0 Q34.34285714285714,172.0 38.34285714285714,172.0 H61.37142857142857 Q65.37142857142857,172.0 65.37142857142857,176.0 V264 Z" fill="#9085e9"/>
+<text x="49.857142857142854" y="166.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#f0f6fc">75</text>
+<text x="49.857142857142854" y="282" font-size="11.5" text-anchor="middle" fill="#9198a1">Sun</text>
+<path d="M86.05714285714286,264 V102.4 Q86.05714285714286,98.4 90.05714285714286,98.4 H113.08571428571429 Q117.08571428571429,98.4 117.08571428571429,102.4 V264 Z" fill="#9085e9"/>
+<text x="101.57142857142858" y="92.4" font-size="11.5" font-weight="600" text-anchor="middle" fill="#f0f6fc">135</text>
+<text x="101.57142857142858" y="282" font-size="11.5" text-anchor="middle" fill="#9198a1">Mon</text>
+<path d="M137.77142857142857,264 V120.80000000000001 Q137.77142857142857,116.80000000000001 141.77142857142857,116.80000000000001 H164.8 Q168.8,116.80000000000001 168.8,120.80000000000001 V264 Z" fill="#9085e9"/>
+<text x="153.28571428571428" y="110.80000000000001" font-size="11.5" font-weight="600" text-anchor="middle" fill="#f0f6fc">120</text>
+<text x="153.28571428571428" y="282" font-size="11.5" text-anchor="middle" fill="#9198a1">Tue</text>
+<path d="M189.4857142857143,264 V193.17333333333335 Q189.4857142857143,189.17333333333335 193.4857142857143,189.17333333333335 H216.51428571428573 Q220.51428571428573,189.17333333333335 220.51428571428573,193.17333333333335 V264 Z" fill="#9085e9"/>
+<text x="205.0" y="183.17333333333335" font-size="11.5" font-weight="600" text-anchor="middle" fill="#f0f6fc">61</text>
+<text x="205.0" y="282" font-size="11.5" text-anchor="middle" fill="#9198a1">Wed</text>
+<path d="M241.20000000000002,264 V149.01333333333332 Q241.20000000000002,145.01333333333332 245.20000000000002,145.01333333333332 H268.22857142857146 Q272.22857142857146,145.01333333333332 272.22857142857146,149.01333333333332 V264 Z" fill="#9085e9"/>
+<text x="256.7142857142857" y="139.01333333333332" font-size="11.5" font-weight="600" text-anchor="middle" fill="#f0f6fc">97</text>
+<text x="256.7142857142857" y="282" font-size="11.5" text-anchor="middle" fill="#9198a1">Thu</text>
+<text x="308.42857142857144" y="258.0" font-size="11.5" font-weight="600" text-anchor="middle" fill="#f0f6fc">0</text>
+<text x="308.42857142857144" y="282" font-size="11.5" text-anchor="middle" fill="#9198a1">Fri</text>
+<path d="M344.62857142857143,264 V263.09333333333336 Q344.62857142857143,259.09333333333336 348.62857142857143,259.09333333333336 H371.65714285714284 Q375.65714285714284,259.09333333333336 375.65714285714284,263.09333333333336 V264 Z" fill="#9085e9"/>
+<text x="360.14285714285717" y="253.09333333333336" font-size="11.5" font-weight="600" text-anchor="middle" fill="#f0f6fc">4</text>
+<text x="360.14285714285717" y="282" font-size="11.5" text-anchor="middle" fill="#9198a1">Sat</text>
+</svg>
