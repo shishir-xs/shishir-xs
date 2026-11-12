@@ -29,6 +29,15 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="#-about"><img src="https://img.shields.io/badge/About-1e1b4b?style=for-the-badge" alt="About"/></a>
+  <a href="#-products-i-build"><img src="https://img.shields.io/badge/Products-1e1b4b?style=for-the-badge" alt="Products"/></a>
+  <a href="#-contribution-analytics"><img src="https://img.shields.io/badge/Analytics-1e1b4b?style=for-the-badge" alt="Analytics"/></a>
+  <a href="#-changelog-by-project"><img src="https://img.shields.io/badge/Changelog-1e1b4b?style=for-the-badge" alt="Changelog"/></a>
+  <a href="#%EF%B8%8F-tech-stack"><img src="https://img.shields.io/badge/Stack-1e1b4b?style=for-the-badge" alt="Stack"/></a>
+  <a href="#-connect"><img src="https://img.shields.io/badge/Connect-1e1b4b?style=for-the-badge" alt="Connect"/></a>
+</p>
+
 ---
 
 ## 🧭 About
@@ -46,6 +55,48 @@ My work sits between **engineering and research**: I dig into why the editor and
 - 🔐 **Security mindset**: rate limiting, nonces, XSS and open-redirect hardening
 
 <br clear="right"/>
+
+```yaml
+# whoami
+name:      Shishir Bhuiyan
+role:      Software Engineer & Project Lead
+company:   Wpmet · XpeedStudio
+focus:     [Gutenberg blocks, Elementor widgets, REST APIs, payments]
+languages: [PHP, JavaScript, TypeScript, SCSS, SQL]
+editor:    VS Code
+motto:     "What you edit is what ships."
+```
+
+### ⚡ Currently
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔭 Working on</h4>
+      <ul>
+        <li>GutenKit Pro <b>Login Form</b> block</li>
+        <li>Mouse Track & entrance animation fixes</li>
+        <li>Accordion and Counter controls</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌱 Exploring</h4>
+      <ul>
+        <li>Block editor internals & the Interactivity API</li>
+        <li>Front-end performance & asset loading</li>
+        <li>Clean, SOLID plugin architecture</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💬 Ask me about</h4>
+      <ul>
+        <li>Block deprecations & validation errors</li>
+        <li>Elementor widget controls</li>
+        <li>WordPress REST API & Stripe</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -170,6 +221,13 @@ My work sits between **engineering and research**: I dig into why the editor and
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shishir-xs&bg_color=0d1117&color=c9d1d9&line=7C3AED&point=EC4899&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="activity graph" width="100%"/>
+</p>
+
+### 🕐 When I code
+
+<p align="center">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shishir-xs&theme=tokyonight&utcOffset=6" alt="productive time"/>
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shishir-xs&theme=tokyonight" alt="most commit language"/>
 </p>
 
 ---
@@ -390,12 +448,28 @@ gantt
 
 ---
 
+## 💡 Dev Quote & a Laugh
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke"/>
+</p>
+
+---
+
 ## 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/shishir-xs"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://wpmet.com"><img src="https://img.shields.io/badge/Wpmet-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wpmet"/></a>
   <a href="https://xpeedstudio.com"><img src="https://img.shields.io/badge/XpeedStudio-EC4899?style=for-the-badge&logoColor=white" alt="XpeedStudio"/></a>
+</p>
+
+<p align="center">
+  <sub>💜 Thanks for visiting. Charts and changelogs are built from real commit history.</sub>
 </p>
 
 <p align="center">
