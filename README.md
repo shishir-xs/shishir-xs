@@ -370,12 +370,78 @@ gantt
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrshishir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" alt="engrshishir languages"/>
 </p>
 
+### ⚡ Featured: Lara Dashboard
+
+<p align="center">
+  <a href="https://laradashboard.com/"><img src="https://laradashboard.com/modules/laradashboard/images/demo.png" alt="Lara Dashboard" width="100%"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laradashboard/laradashboard"><img src="https://img.shields.io/github/stars/laradashboard/laradashboard?style=for-the-badge&color=F59E0B&label=stars&logo=github" alt="stars"/></a>
+  <a href="https://github.com/laradashboard/laradashboard/fork"><img src="https://img.shields.io/github/forks/laradashboard/laradashboard?style=for-the-badge&color=7C3AED&label=forks" alt="forks"/></a>
+  <img src="https://img.shields.io/badge/license-MIT-22C55E?style=for-the-badge" alt="MIT"/>
+  <a href="https://demo.laradashboard.com/admin"><img src="https://img.shields.io/badge/Live%20Demo-EC4899?style=for-the-badge" alt="Live demo"/></a>
+  <a href="https://laradashboard.com/docs"><img src="https://img.shields.io/badge/Docs-0EA5E9?style=for-the-badge" alt="Docs"/></a>
+</p>
+
+**[Lara Dashboard](https://laradashboard.com/)** is a free, open-source CMS and admin platform for Laravel. One codebase gives you users, roles and permissions, a blog and page CMS, media, email, translations and a module marketplace, so you can build a SaaS app, CRM, store or internal tool without months of boilerplate. It also has a built-in MCP server, so AI agents like Claude and Cursor can run the site with the same permissions as the person who connects them.
+
+I contributed to it while at Squartup: the modular architecture, JWT authentication, organization-level data isolation, the premium CRM module, RabbitMQ, Redis and Elasticsearch.
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>50+</h3><sub>built-in features</sub></td>
+    <td align="center" width="25%"><h3>50+</h3><sub>MCP tools for AI agents</sub></td>
+    <td align="center" width="25%"><h3>56+</h3><sub>API endpoints</sub></td>
+    <td align="center" width="25%"><h3>30+</h3><sub>languages</sub></td>
+  </tr>
+</table>
+
+#### 🎬 Watch
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=__ERlWcT6VE"><img src="https://i.ytimg.com/vi/__ERlWcT6VE/hqdefault.jpg" alt="Lara Dashboard in 60 seconds" width="100%"/></a>
+      <br/><b>▶ Lara Dashboard in 60 seconds</b><br/><sub>A quick tour of the dashboard, CMS, roles, modules and the MCP server.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=7oGezg4uIos"><img src="https://i.ytimg.com/vi/7oGezg4uIos/maxresdefault.jpg" alt="Connect Claude to Lara Dashboard with MCP" width="100%"/></a>
+      <br/><b>▶ Connect Claude with MCP (5 min)</b><br/><sub>Setup, then a real session: daily briefing, replying to a lead, publishing a post.</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🧩 What's inside</b></summary>
+
+<br/>
+
+| Feature | What it does |
+|---|---|
+| 🤖 Agentic AI | Describe a task in plain language; generate posts, SEO metadata and images (OpenAI, Claude, Gemini, Ollama) |
+| 🧱 Visual page builder | Drag and drop with 26+ blocks, undo/redo, and email-safe HTML |
+| 📦 Module system | Install modules from a ZIP, enable or disable them, or get them from the marketplace |
+| 📝 Content management | Posts, pages, categories, scheduling, revisions and built-in SEO |
+| 👥 Users | Profiles, activity log, impersonation, bulk actions and exports |
+| 🔐 Roles & permissions | 5 default roles, custom roles and "edit own" permissions |
+| 🌐 Translations | 30+ languages, right-to-left support and safe overrides |
+| 🛠️ Stack | Laravel 13, Livewire, Tailwind CSS 4, Alpine.js, React, Inertia.js, PHP 8.3+ |
+
+<p align="center">
+  <img src="https://github.com/laradashboard/laradashboard/raw/main/demo-screenshots/03-Dashboard-Page-lite-Mode.png" alt="Lara Dashboard admin screenshot" width="100%"/>
+</p>
+
+</details>
+
+### 🗂️ More projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/laradashboard/laradashboard">Lara Dashboard</a></h4>
-      <img src="https://img.shields.io/github/stars/laradashboard/laradashboard?style=flat-square&color=F59E0B&label=stars"/> <img src="https://img.shields.io/github/forks/laradashboard/laradashboard?style=flat-square&color=7C3AED&label=forks"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/>
-      <sub>Open-source Laravel CMS and enterprise dashboard: users, roles, permissions, modules, settings and translations. I worked on the modular architecture, JWT auth, data isolation, CRM modules, RabbitMQ, Redis and Elasticsearch. <a href="https://demo.laradashboard.com/">Live demo</a></sub>
+      <h4>🤖 <a href="https://github.com/engrshishir/Chatbot-Python-Js">PSTU Dialogue</a></h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
+      <sub>A chatbot for quick answers on PSTU academic programs, admissions, campus details and events.</sub>
     </td>
     <td width="50%" valign="top">
       <h4>🏦 <a href="https://amarsomiti.com/">AmarSomiti</a></h4>
@@ -395,8 +461,6 @@ gantt
     <td width="50%" valign="top">
       <h4>🐍 <a href="https://github.com/engrshishir/engr-colab-github">engr-colab-github</a></h4>
       <sub>A Python package for managing GitHub repositories from Google Colab or locally: token auth, create, clone and everyday git actions.</sub>
-      <h4>🤖 <a href="https://github.com/engrshishir/Chatbot-Python-Js">PSTU Dialogue</a></h4>
-      <sub>A chatbot for quick answers on PSTU academic programs, admissions, campus details and events.</sub>
       <h4>📘 <a href="https://github.com/engrshishir/Django-Portfolio">Django step-by-step</a></h4>
       <sub>A learning repository that walks through Django one step at a time.</sub>
     </td>
